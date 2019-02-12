@@ -8,3 +8,5 @@ Courses included:
 CSC230 - Elementary Data Structures and Algorithms
 
 CSC330 - Advanced Data Structures
+
+CSC261 - Computer Organization and Assembly Language (x86)
