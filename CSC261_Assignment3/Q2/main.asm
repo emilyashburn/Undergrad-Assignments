@@ -3,7 +3,7 @@
 ; Professor Chandana Ariyawansa
 ; 10/17/2018
 ; This program is designed to compute (in EAX) the perimeter 
-(2*length + 2*width) of a rectangle where the length and width
+; (2*length + 2*width) of a rectangle where the length and width
 ; are in memory doublewords.
 
 
