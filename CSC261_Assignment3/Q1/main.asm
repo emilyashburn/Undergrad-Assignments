@@ -3,7 +3,7 @@
 ; Professor Chandana Ariyawansa
 ; 10/17/2018
 ; This program is a revision to the program in Figure 4.12 in the book. This program now uses the input macro to
-; prompt for and input values for x, y, and z, and the output macro to display an appropriate label and the 
+; prompt for input values for x, y, and z, and the output macro to display an appropriate label and the 
 ; value of the expression.
 
 
